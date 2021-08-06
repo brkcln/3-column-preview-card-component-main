@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](images/desktop.png)
+![desktop](images/dekstop.png)
 ![tablet](images/tablet.png)
 ![mobile](images/mobile.png)
 
