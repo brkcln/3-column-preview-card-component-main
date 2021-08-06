@@ -23,20 +23,20 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](https://prnt.sc/1jpc7to)
-![tablet](https://prnt.sc/1jpcctp)
-![mobile](https://prnt.sc/1jpcg6w)
+![desktop](images/desktop.png)
+![tablet](images/tablet.png)
+![mobile](images/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://brkcln.github.io/3-column-preview-card-component-main)
+- Solution URL: [Challenge web site](https://www.frontendmentor.io/solutions/3column-preview-card-component-flexbox-bem-responsive-GY8n2AziL)
+- Live Site URL: [github pages live ](https://brkcln.github.io/3-column-preview-card-component-main)
 
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
-  -BEM
+- BEM
 
 ### Useful resources
 
